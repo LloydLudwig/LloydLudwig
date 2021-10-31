@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LloydLudwig, lud if you prefer
-- 👀 I’m interested in: low level programming, working with baremetal, minecraft modding, game development, pretty much anything that is not front-end web development (ewww)
-- 🌱 I’m currently learning minecraft modding
+- 👀 I’m interested in frankly anything software, hardware, theory or even just STEM in general
+- 🌱 I’m currently learning data analysis
 - 📫 How to reach me
   - twitter: [@ludwig_lloyd](https://twitter.com/ludwig_lloyd)
 
