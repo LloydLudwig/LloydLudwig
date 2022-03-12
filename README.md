@@ -1,4 +1,4 @@
-- 👋 Hi, I’m zer0p1us, Lloyd if you prefer
+- 👋 Hi, I’m zer0p1us
 - 👀 I’m interested in frankly anything software, hardware, theory or even just STEM in general
 - 🌱 I’m currently learning doing my undergrand degree in CS 
 - 📫 How to reach me
