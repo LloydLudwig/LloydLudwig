@@ -1,6 +1,8 @@
-- 👋 Hi, I’m zer0p1us
+# 👋 Hi, I’m zer0p1us
+- 🏆 I'm an award-winning second year computer science student
 - 👀 I’m interested in frankly anything software, hardware, theory or even just STEM in general
-- 🌱 I’m currently learning doing my undergrand degree in CS 
+- 🌱 I’m currently learning doing my undergrand degree in CS
+- 📚 I'm also multi-lingual speaking Italian, English, Bengali & more
 <!---
 - 📫 How to reach me
   - twitter:
