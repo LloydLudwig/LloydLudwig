@@ -2,7 +2,7 @@
 - 🏆 I'm an award-winning computer science student
 - 👀 I’m interested in frankly anything software, hardware, theory or even just STEM in general
 - 🌱 I’m currently learning doing my undergrand degree in CS
-- 📚 I'm also multi-lingual speaking Italian, English, Bengali & more
+- 📚 I'm also multi-lingual speaking Italian, English, French & more
 <!---
 - 📫 How to reach me
   - twitter:
